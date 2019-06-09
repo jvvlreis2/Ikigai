@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">いきがい</string>
+    <string name="bt_start">生きがいを自動生成</string>
+    <string name="bt_tip">あなたのいきがいを描く</string>
+    <string name="button_erase">画像を消去</string>
+    <string name="button_set_color">色を設定</string>
+    <string name="label_red">赤</string>
+    <string name="label_green">緑</string>
+    <string name="label_blue">青</string>
+    <string name="menuitem_color">色</string>
+    <string name="menuitem_delete">図面を消去</string>
+    <string name="message_erase">図面を消去しますか？</string>
+    <string name="title_color_dialog">色を選択</string>
+    <string name="title_paint">あなたのいきがいを描く</string>
+    <string name="ok">はい</string>
+    <string name="cancel">キャンセル</string>
+    <string name="opc">オプション</string>
+    <string name="c1">サークル1色</string>
+    <string name="c2">サークル2色</string>
+    <string name="c3">サークル3色</string>
+    <string name="c4">サークル4色</string>
+    <string name="what">世界は必要</string>
+    <string name="good">が上手</string>
+    <string name="love">愛</string>
+    <string name="paid">のために支払われた</string>
+    <string name="passion">情熱</string>
+    <string name="mission">ミッション</string>
+    <string name="profession">職業</string>
+    <string name="vocation">職業</string>
+    <string name="title_doodle">自動生成</string>
+    <string name="verIkigai">いきがいを確認</string>
+    <string name="editText">テキストを編集する</string>
+    <string name="yes">はい</string>
+    <string name="no">しないでください</string>
+    <string name="title_delete">図面を削除</string>
+    <string name="subtitle_delete1">図面を本当に削除しますか？</string>
+    <string name="color_selection">色を選ぶ</string>
+    <string name="isIkigai">いきがいです</string>
+    <string name="isNotIkigai1">生き物ではありません。円の間に交点がないから </string>
+    <string name="isNotIkigai2">そして円 </string>
+    <string name="information">いきがいの図面には4つの交差する円が含まれているはずです。
+        \n円を描くときは、画面から指を離さないでください。
+        （画面から指を離した瞬間から、すべての円は完全と見なされます。円の異なる形状はすべて1つとして扱われます）
+        \n4つの円が完成したら、いきがいチェックが自動的に行われます。
+        \n描画を開始するには「はい」をクリックしてください</string>
+</resources>

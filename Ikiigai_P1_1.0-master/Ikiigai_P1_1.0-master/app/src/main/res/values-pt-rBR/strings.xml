@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ikigai</string>
+    <string name="bt_start">Gere seu Ikigai automaticamente</string>
+    <string name="bt_tip">Desenhe seu Ikigai</string>
+    <string name="button_erase">Apagar imagem</string>
+    <string name="button_set_color">Alterar cor</string>
+    <string name="label_red">Vermelho</string>
+    <string name="label_green">Vermelho</string>
+    <string name="label_blue">Azul</string>
+    <string name="menuitem_color">Cor</string>
+    <string name="menuitem_delete">Apagar desenho</string>
+    <string name="message_erase">Apagar imagem</string>
+    <string name="title_color_dialog">Escolha a cor</string>
+    <string name="title_paint">Desenhe seu Ikigai</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancelar</string>
+    <string name="opc">Opções</string>
+    <string name="c1">Cor circulo 1</string>
+    <string name="c2">Cor circulo 2</string>
+    <string name="c3">Cor circulo 3</string>
+    <string name="c4">Cor circulo 4</string>
+    <string name="what">Mundo precisa</string>
+    <string name="good">Bom em</string>
+    <string name="love">Amor</string>
+    <string name="paid">pode ser pago</string>
+    <string name="passion">Paixão</string>
+    <string name="mission">missão</string>
+    <string name="profession">profissão</string>
+    <string name="vocation">vocação</string>
+    <string name="title_doodle">Gerado automaticamente</string>
+    <string name="verIkigai">Verificar Ikigai</string>
+    <string name="editText">Edite os textos</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="title_delete">Deletar desenho</string>
+    <string name="subtitle_delete1">Deseja mesmo deletar o desenho?</string>
+    <string name="color_selection">Selecione a cor</string>
+    <string name="isIkigai">É um ikigai</string>
+    <string name="isNotIkigai1">Não é um ikigai, pois não há intersecção entre o circulo </string>
+    <string name="isNotIkigai2">e o circulo </string>
+    <string name="information">O desenho do Ikigai deve conter 4 circulos interseccionados entre si.
+    \nQuando desenhar um circulo, não retire o dedo da tela até finalizar
+    (todo circulo é considerado completo a partir do momento que você retira o dedo da tela, Toda forma diferente de um circulo será tratada como um)
+    \nLogo após os 4 circulos terem sido finalizados, a verificação do ikigai será feita automaticamente.
+    \nClique em "Ok" para começar a desenhar</string>
+</resources>
